@@ -26,6 +26,6 @@ Users should be able to:
 ![](./assets/images/desktop-ss.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/dulaagamage/Frontend-Mentor-Social-links-profile-challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
